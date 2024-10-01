@@ -1,2 +1,3 @@
 # CODES
-Functions which was theory-wise successful computation-wise failure
+Functions which was theory-wise successful computation-wise failure :
+1. Word Count Matrix : After tokenising and appending in new words and its corresponding index in dict, then converting into word count matrix by count against index.
